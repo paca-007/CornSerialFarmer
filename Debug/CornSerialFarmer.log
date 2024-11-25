@@ -1,0 +1,7 @@
+﻿  CornSerialFarmer.cpp
+  YoonseoTestScene.cpp
+  코드를 생성하고 있습니다...
+  Debug\pch.obj을(를) 바꾸고 있습니다.
+GameEngine.lib(Random.obj) : warning LNK4006: "float __cdecl Random::Value(void)" (?Value@Random@@YAMXZ)이(가) GameEngine.lib(Random.obj)에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+GameEngine.lib(Mathf.obj) : warning LNK4006: "float __cdecl Mathf::Clamp(float,float,float)" (?Clamp@Mathf@@YAMMMM@Z)이(가) GameEngine.lib(Mathf.obj)에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+  CornSerialFarmer.vcxproj -> E:\ZICO\5_Project\ZICO\Debug\CornSerialFarmer.lib
